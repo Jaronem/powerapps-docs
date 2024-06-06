@@ -115,7 +115,7 @@ OData-Version: 4.0
 
 ## Update multiple records in a single request
 
-The fastest way to update multiple records of the same type in a single request is to use the [UpdateMultiple action](xref:Microsoft.Dynamics.CRM.UpdateMultiple). At the time of this writing, the [UpdateMultiple action](xref:Microsoft.Dynamics.CRM.UpdateMultiple). Not all standard tables support this action, but all elastic tables do.
+The fastest way to update multiple records of the same type in a single request is to use the [UpdateMultiple action](xref:Microsoft.Dynamics.CRM.UpdateMultiple). Not all standard tables support this action, but all elastic tables do.
 
 More information:
 
